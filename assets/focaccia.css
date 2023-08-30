@@ -1,0 +1,25 @@
+.linea{
+    background:linear-gradient(rgba(253,251,241,255),rgba(253,251,241,255)); height:50px; border-top: solid rgba(255,219,131,255);
+margin: left 100px;
+}
+
+.container{
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#logo{
+
+   margin-left: 100px;
+}
+
+.focaccia{
+    width: 2rem;
+    
+}
+
+.featured{
+    color:orange;
+}
